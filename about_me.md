@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: 
 permalink: "/about me/"
 layout: page
 ---
