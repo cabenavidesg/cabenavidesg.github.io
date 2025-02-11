@@ -1,6 +1,10 @@
 ---
+layout: default
 title: "News"
-permalink: "/news/"
-layout: page
 ---
-Here I wil upload news about my work 
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
