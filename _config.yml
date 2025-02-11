@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About"}
   - {file: "README.md",title: "About me"}
   - {title: "Research"}
-  - {file:"news.md", title: "News"}
+  - {file: "news.htlm", title: "News"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:cabenavidesg@unal.edu.co"}
