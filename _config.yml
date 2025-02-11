@@ -16,12 +16,12 @@ minimal: false              # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home"}
-  - {file: "CV.pdf", title: "CV"}
-  - {title: "About"}
-  - {file: "README.md",title: "About me"}
-  - {title: "Research"}
-  - {file: "news.md", title: "News"}
+  - {file: "index.html", title: "News"}
+  #- {file: "CV.pdf", title: "CV"}
+  #- {title: "About"}
+  #- {file: "README.md",title: "About me"}
+  #- {title: "Research"}
+  #- {file: "news.md", title: "News"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:cabenavidesg@unal.edu.co"}
