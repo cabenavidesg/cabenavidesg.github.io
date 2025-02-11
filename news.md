@@ -1,5 +1,5 @@
 ---
 title: "News"
-permalink: "/News/"
+permalink: "/news/"
 layout: page
 ---
