@@ -1,5 +1,5 @@
 ---
-title:"Welcome to my personal webpage!"
+title:"Welcome!"
 permalink: "/home/"
 layout: page
 ---
