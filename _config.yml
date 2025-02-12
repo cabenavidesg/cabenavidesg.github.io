@@ -28,7 +28,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:cabenavidesg@unal.edu.co"}
   - {title: Github, icon: github, url: "https://github.com/cabenavidesg"}
   - {title: Inspire.net, icon: rss, url: "https://inspirehep.net/authors/1721044?ui-citation-summary=true&ui-exclude-self-citations=true"}
-  - {title: LinkedIN, icon: LinkedIn, url: "https://www.linkedin.com/notifications/?filter=all"}
+  - {title: Linkedin, icon: Linkedin, url: "https://www.linkedin.com/notifications/?filter=all"}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
