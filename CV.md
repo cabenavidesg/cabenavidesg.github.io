@@ -12,7 +12,7 @@ layout: page
 
 # Education
 - 2017-2020. Ph.D. in Theoretical Physics. Fudan University, Shanghai, China.
-  Ph.D. advisor: Prof. Cosimo Bambi [Cosimo](https://cosimobambi.github.io)
+  Ph.D. advisor: Prof.[Cosimo Bambi](https://cosimobambi.github.io)
   Dissertation: "Gravitational lensing, particle motion and quientessence." 
 - 2011-2013. M.Sc. in Astronomy. Universidad Nacional de Colombia, Bogotá.
   M.Sc. advisor: Prof. Eduard Larrañaga.
