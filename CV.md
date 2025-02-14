@@ -9,6 +9,7 @@ layout: page
 - Nationality: Colombian
 - Date of birth: September 12, 1985.
 - Place of birth: Manizales, Caldas, Colombia.
+  
 -----------------------------------------------------------------------------
 # Education
 - 2017-2020. Ph.D. in Theoretical Physics. Fudan University, Shanghai, China.
