@@ -26,6 +26,11 @@ layout: page
   
 - 2005-2011. B.Sc. in Physics. Universidad Nacional de Colombia,Bogotá, Colombia.
 
+  B.Sc. advisor: Prof. [José Robel Arenas](https://scholar.google.com/citations?user=IEVLREYAAAAJ&hl=es).
+
+Thesis: "Singularidades Cosmológicas".
+
+
 -----------------------------------------------------------------------------
 # Experience
 ## Research
