@@ -28,7 +28,7 @@ layout: page
 
   B.Sc. advisor: Prof. [José Robel Arenas](https://scholar.google.com/citations?user=IEVLREYAAAAJ&hl=es).
 
-Thesis: "Singularidades Cosmológicas".
+  Thesis: "Singularidades Cosmológicas".
 
 
 -----------------------------------------------------------------------------
