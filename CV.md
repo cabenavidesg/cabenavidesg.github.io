@@ -27,7 +27,7 @@ layout: page
 - 2005-2011. B.Sc. in Physics. Universidad Nacional de Colombia,Bogotá, Colombia.
 
 -----------------------------------------------------------------------------
-# Expirence
+# Experience
 ## Research
 - 2022-2024. Postdoctoral researcher. Shanghai Jiao Tong University.
 - 2020-2022. Postdoctoral researcher. Shanghai Astronomical Observatory (SHAO).
