@@ -21,7 +21,7 @@ layout: page
   
   M.Sc. advisor: Prof. [Eduard Larrañaga](https://scholar.google.com.co/citations?user=HyknmA8AAAAJ&hl=en)
 
-[Thesis](https://repositorio.unal.edu.co/handle/unal/75081): "Gravitational lensing in the strong field limit for Kar's metric."
+Thesis: [Gravitational lensing in the strong field limit for Kar's metric](https://repositorio.unal.edu.co/handle/unal/75081).
   
 - 2005-2011. B.Sc. in Physics. Universidad Nacional de Colombia,Bogotá, Colombia.
 -----------------------------------------------------------------------------
