@@ -25,6 +25,7 @@ layout: page
   Thesis: [Gravitational lensing in the strong field limit for Kar's metric](https://repositorio.unal.edu.co/handle/unal/75081).
   
 - 2005-2011. B.Sc. in Physics. Universidad Nacional de Colombia,Bogotá, Colombia.
+
 -----------------------------------------------------------------------------
 # Expirence
 ## Research
