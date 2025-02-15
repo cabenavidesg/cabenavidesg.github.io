@@ -34,7 +34,7 @@ layout: page
 -----------------------------------------------------------------------------
 # Experience
 ## Research
-- 2022-2024. Postdoctoral researcher. Shanghai Jiao Tong University.
+- 2022-2024. Postdoctoral researcher. School of Physics and Astronomuy. [Shanghai Jiao Tong Universsity](https://www.physics.sjtu.edu.cn/en/).
 - 2020-2022. Postdoctoral researcher. Shanghai Astronomical Observatory (SHAO).
 - 2017-2020. Graduate Student. Fudan University, Shangahi, China.
 -    
