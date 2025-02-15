@@ -92,5 +92,9 @@ As a postdoc researcher, I have mentored the following students, guiding them in
   - Qianyun Yun. Shanghai Astronomical Observatory.
     * [Surrogate model for gravitational waveforms of spin-aligned binary black holes with eccentricities](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.124053).
     
+-----------------------------------------------------------------------------
 
+# Talks/Seminars/Conferences/Proceedings
 
+  - 2025 Talk: General Relativity: consequences and applications. Universidad Nacional de Colombia sede Manizales.
+  - 2020 Coloquio de Astronomía: [Lentes Gravitacionales, quinta esencia y movimiento de partículas](https://www.youtube.com/watch?v=ceF_911Gl50). 
