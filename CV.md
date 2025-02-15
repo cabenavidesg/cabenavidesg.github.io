@@ -42,11 +42,11 @@ layout: page
 ## Vocational 
 - 2014-2017. Lecturer. [Universidad Católica de Colombia](https://www.ucatolica.edu.co/portal/). Bogotá, Colombia. I was in charge of the following undergraduate courses:
 
-  Newtonian mechanics and laboratory.
+  * Newtonian mechanics and laboratory.
 
-  Oscillations and waves, and laboratory.
+  * Oscillations and waves, and laboratory.
 
-  Electromagnetisim and laboratory.
+  * Electromagnetisim and laboratory.
 
 - 2014-2016. Lecturer. [Escuela de Ingenieros Militares](https://www.esing.mil.co/ingenieria-civil-a-distancia/) (ESING). I was in charge of the following undergraduate courses (virtual):
 
