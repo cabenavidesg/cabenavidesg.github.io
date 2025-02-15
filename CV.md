@@ -86,7 +86,11 @@ As a postdoc researcher, I have mentored the following students, guiding them in
 
   - Farrux Abdulxaminol. National University of Uzbekistan.
     * [Spinning test particle motion around a rotating wormhole](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.024012).
-    * [Dynamics of spinning test particles around the Kerr–Newman–NUT black hole with quintessence in the Rastall gravity](https://link.springer.com/article/10.1140/epjp/s13360-023-04283-9)
+    * [Dynamics of spinning test particles around the Kerr–Newman–NUT black hole with quintessence in the Rastall gravity](https://link.springer.com/article/10.1140/epjp/s13360-023-04283-9).
+  - José Miguel Ladino. Universidad Nacional de Colombia.
+    * [Charged spinning and magnetized test particles orbiting quantum improved charged black holes](https://link.springer.com/article/10.1140/epjc/s10052-023-12187-2).
+  - Qianyun Yun. Shanghai Astronomical Observatory.
+    * [Surrogate model for gravitational waveforms of spin-aligned binary black holes with eccentricities](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.124053).
     
 
 
