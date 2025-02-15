@@ -66,7 +66,14 @@ layout: page
 
   * Construction of a 6-inch f/8 Newtonian Telescope. [See the following link for the published paper](https://innovacionyciencia.com/public/revista/85).
 
-  * Construction of a radio telescope. We used the [radio Jove initiative](https://science.nasa.gov/citizen-science/radio-jove/). 
+  * Construction of a radio telescope. We used the [radio Jove initiative](https://science.nasa.gov/citizen-science/radio-jove/).
+
+-----------------------------------------------------------------------------
+
+## Fellowships/Scholarships/Awards
+
+- 2020-2022. [President's International Fellowship Intiative](https://english.ucas.ac.cn/index.php/join/job-vacancy/2140-cas-president-s-international-fellowship-initiative) (PIFI).
+- 2017-2020. [China Scholarship Council](https://www.chinesescholarshipcouncil.com) (CSC). Grant No. 2017GXZ019022. 
 
   
     
