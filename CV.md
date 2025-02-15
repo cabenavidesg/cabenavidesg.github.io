@@ -50,11 +50,11 @@ layout: page
 
 - 2014-2016. Lecturer. [Escuela de Ingenieros Militares](https://www.esing.mil.co/ingenieria-civil-a-distancia/) (ESING). I was in charge of the following undergraduate courses (virtual):
 
-  Integral Calculus.
+  * Integral Calculus.
 
-  Vector Calculus.
+  * Vector Calculus.
 
-  Differential equations.
+  * Differential equations.
 
 - 2011-2013. Teaching asistant. Universidad Nacional de Colombia. As a scholarship holder, I was in charge of the laboratory of electricity and magnetism.
 
@@ -64,9 +64,9 @@ layout: page
 
   This was a project for science dissemination hosted by the Universidad Konrad      Lorenz through [AstroK](https://www.konradlorenz.edu.co/cat-blog/astrok/). In this project, my friend [Alejandro Cardenas Avendaño](https://alejandroc137.bitbucket.io) and I guided and mentored high school students to carry out the following projects: 
 
-  Construction of a 6-inch f/8 Newtonian Telescope. [See the following link for the published paper](https://innovacionyciencia.com/public/revista/85).
+  * Construction of a 6-inch f/8 Newtonian Telescope. [See the following link for the published paper](https://innovacionyciencia.com/public/revista/85).
 
-  Construction of a radio telescope. We used the [radio Jove initiative](https://science.nasa.gov/citizen-science/radio-jove/). 
+  * Construction of a radio telescope. We used the [radio Jove initiative](https://science.nasa.gov/citizen-science/radio-jove/). 
 
   
     
