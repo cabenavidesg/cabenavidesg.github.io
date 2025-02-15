@@ -36,7 +36,19 @@ layout: page
 ## Research
 - 2022-2024. Postdoctoral researcher. School of Physics and Astronomuy. [Shanghai Jiao Tong Universsity](https://www.physics.sjtu.edu.cn/en/) (SJTU).
 - 2020-2022. Postdoctoral researcher. [Shanghai Astronomical Observatory](http://english.shao.cas.cn) (SHAO).
-- 2017-2020. Graduate Student. [Fudan University](https://cosimobambi.github.io), Shangahi, China.
+- 2017-2020. Ph.D. student. [Fudan University](https://cosimobambi.github.io), Shangahi, China.
+- 2011-2013. M.Sc. student. [Universidad Nacional de Colombia](https://www.instagram.com/astronomiaoan/?hl=en) (UN). Bogotá, Colombia.
+
+## Vocational 
+- 2014-2017. Lecturer. [Universidad Católica de Colombia](https://www.ucatolica.edu.co/portal/). Bogotá, Colombia. I was in charge of the following undergraduate courses:
+
+  Newtonian mechanics and laboratory.
+
+  Oscillations and waves, and laboratory.
+
+  Electromagnetisim and laboratory.
+
+  
     
 
 
