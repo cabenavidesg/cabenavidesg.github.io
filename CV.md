@@ -98,4 +98,4 @@ As a postdoc researcher, I have mentored the following students, guiding them in
 
   - 2025 Talk: General Relativity: consequences and applications. Universidad Nacional de Colombia sede Manizales.
   - 2020 Coloquio de Astronomía: [Lentes Gravitacionales, quinta esencia y movimiento de partículas](https://www.youtube.com/watch?v=ceF_911Gl50). Universidad Nacional de Colombia, Bogotá.
-  - 2014 Talk: [El Universo como una Lente: de los Corpúsculos de Newton a la Teoría General de la Relatividad]([https://www.youtube.com/watch?v=ceF_911Gl50](https://www.youtube.com/watch?v=Z5HWRebNzYo&t=1189s)). Universidad Nacional de Colombia, Bogotá.
+  - 2014 Talk: [El Universo como una Lente: de los Corpúsculos de Newton a la Teoría General de la Relatividad](https://www.youtube.com/watch?v=Z5HWRebNzYo&t=1189s). Universidad Nacional de Colombia, Bogotá.
