@@ -48,7 +48,7 @@ layout: page
 
   Electromagnetisim and laboratory.
 
-- 2014-2016. Lecturer. [Escuela de Ingenieros Militares](https://www.esing.mil.co/ingenieria-civil-a-distancia/) (ESING). I was in charge of the following undergraduate courses (vitual):
+- 2014-2016. Lecturer. [Escuela de Ingenieros Militares](https://www.esing.mil.co/ingenieria-civil-a-distancia/) (ESING). I was in charge of the following undergraduate courses (virtual):
 
   Integral Calculus.
 
