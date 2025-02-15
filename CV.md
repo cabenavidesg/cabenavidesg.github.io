@@ -76,8 +76,7 @@ layout: page
 - 2017-2020. [China Scholarship Council](https://www.chinesescholarshipcouncil.com) (CSC). Grant No. 2017GXZ019022.
 - 2012-2013. M.Sc. Scholarship. Universidad Nacional de Colombia.
 - 2011-2012. Tuituion Waiver. Universidad Nacional de Colombia.
-  
-- 2011. Scholarship holder, School of Science. B.Sc. Physics. Universidad Nacioal de Colombia. 
+- 2011 Scholarship holder, School of Science. B.Sc. Physics. Universidad Nacioal de Colombia. 
 
   
     
