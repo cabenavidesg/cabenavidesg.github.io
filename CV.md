@@ -82,7 +82,11 @@ layout: page
 
 # Student mentoring
   
-  As a postdoc researcher, I have mentored the following students, guiding them in the research and writing process of academic papers and their submission to scientific journals  
+As a postdoc researcher, I have mentored the following students, guiding them in the research and writing process of academic papers and their submission to scientific journals
+
+  - Farrux Abdulxaminol. National University of Uzbekistan.
+    * [Spinning test particle motion around a rotating wormhole](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.024012).
+    * [Dynamics of spinning test particles around the Kerr–Newman–NUT black hole with quintessence in the Rastall gravity](https://link.springer.com/article/10.1140/epjp/s13360-023-04283-9)
     
 
 
