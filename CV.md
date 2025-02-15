@@ -48,6 +48,20 @@ layout: page
 
   Electromagnetisim and laboratory.
 
+- 2014-2016. Lecturer. [Escuela de Ingenieros Militares](https://www.esing.mil.co/ingenieria-civil-a-distancia/) (ESING). I was in charge of the following undergraduate courses (vitual):
+
+  Integral Calculus.
+
+  Vector Calculus.
+
+  Differential equations.
+
+- 2011-2013. Teaching asistant. Universidad Nacional de Colombia. As a scholarship holder, I was in charge of the laboratory of electricity and magnetism.
+
+## Science disemination
+
+- 2013-2015. Departamento de matemática e ingeniería. [Universidad Konrad Lorenz](https://www.konradlorenz.edu.co/cat-blog/astrok/). Bogotá, Colombia.
+
   
     
 
