@@ -62,11 +62,11 @@ layout: page
 
 - 2013-2015. Departamento de matemática e ingeniería. [Universidad Konrad Lorenz](https://www.konradlorenz.edu.co/cat-blog/astrok/). Bogotá, Colombia.
 
-This was a project for science dissemination hosted by the Universidad Konrad Lorenz through AstroK. In this project, my friend [Alejandro Cardenas Avendaño](https://alejandroc137.bitbucket.io) and I guided and mentored high school students to carry out the following projects: 
+  This was a project for science dissemination hosted by the Universidad Konrad      Lorenz through AstroK. In this project, my friend [Alejandro Cardenas Avendaño](https://alejandroc137.bitbucket.io) and I guided and mentored high school students to carry out the following projects: 
 
-Construction of a 6-inch f/8 Newtonian Telescope. [See the following link for the published paper](https://innovacionyciencia.com/public/revista/85).
+  Construction of a 6-inch f/8 Newtonian Telescope. [See the following link for the published paper](https://innovacionyciencia.com/public/revista/85).
 
-Construction of a radio telescope. We used the [radio Jove initiative](https://science.nasa.gov/citizen-science/radio-jove/). 
+  Construction of a radio telescope. We used the [radio Jove initiative](https://science.nasa.gov/citizen-science/radio-jove/). 
 
   
     
