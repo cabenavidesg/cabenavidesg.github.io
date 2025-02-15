@@ -5,8 +5,8 @@ layout: page
 ---
 
 # Personal information
-- Name: Carlos A. Benavides-Gallego
-- Nationality: Colombian
+- Name: Carlos A. Benavides-Gallego.
+- Nationality: Colombian.
 - Date of birth: September 12, 1985.
 - Place of birth: Manizales, Caldas, Colombia.
   
