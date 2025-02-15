@@ -73,7 +73,10 @@ layout: page
 ## Fellowships/Scholarships/Awards
 
 - 2020-2022. [President's International Fellowship Intiative](https://english.ucas.ac.cn/index.php/join/job-vacancy/2140-cas-president-s-international-fellowship-initiative) (PIFI).
-- 2017-2020. [China Scholarship Council](https://www.chinesescholarshipcouncil.com) (CSC). Grant No. 2017GXZ019022. 
+- 2017-2020. [China Scholarship Council](https://www.chinesescholarshipcouncil.com) (CSC). Grant No. 2017GXZ019022.
+- 2012-2013. M.Sc. Scholarship. Universidad Nacional de Colombia.
+- 2011-2012. Tuituion Waiver. Universidad Nacional de Colombia.
+- 2011. Scholarship holder, School of Science. B.Sc. Physics. Universidad Nacioal de Colombia. 
 
   
     
