@@ -64,7 +64,7 @@ layout: page
 
   It was a science dissemination project hosted by the Universidad Konrad      Lorenz through [AstroK](https://www.konradlorenz.edu.co/cat-blog/astrok/). In this project, my friend [Alejandro Cardenas Avendaño](https://alejandroc137.bitbucket.io) and I guided and mentored high school students to carry out the following projects: 
 
-  * Construction of a 6-inch f/8 Newtonian Telescope. [See the following link for the published paper](https://innovacionyciencia.com/public/revista/85).
+  * Construction of a 6-inch f/8 Newtonian Telescope. The results of this project was published in Asociacion Colombiana para el avance de la ciencia XXIII No.2 (2016), page 82. [See the following link for the published paper](https://innovacionyciencia.com/public/revista/85).
 
   * Construction of a radio telescope. We used the [radio Jove initiative](https://science.nasa.gov/citizen-science/radio-jove/).
 
@@ -104,4 +104,5 @@ As a postdoc researcher, I have mentored the following students, guiding them in
   - 2014 Talk: [El Universo como una Lente: de los Corpúsculos de Newton a la Teoría General de la Relatividad](https://www.youtube.com/watch?v=Z5HWRebNzYo&t=1189s). Universidad Nacional de Colombia, Bogotá.
   - 2012 Poster at the 3th Colombian Congress of Astronomy and Astrophysics (CoCoA). Universidad Industrial de Santander (UIS), Bucaramanga, Santader. Poster: Gravitational lensing in the strong field limit: Bozza's method.
   - 2012 Summer School. Solar Astrophysics. Modern Trends and Techniques. Observatorio Astronómico Universidad Nacional de Colombia.
-  - 2011 Poster at the 1th School of numerical Relativity. Oobservatorio Astronómico Universidad Nacional de Colombia, Bogotá. Poster: Space-time: properties and singularity theorems.   
+  - 2011 Poster at the 1th School of numerical Relativity. Oobservatorio Astronómico Universidad Nacional de Colombia, Bogotá. Poster: Space-time: properties and singularity theorems.
+    
