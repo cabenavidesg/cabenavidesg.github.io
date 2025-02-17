@@ -106,4 +106,11 @@ As a postdoc researcher, I have mentored the following students, guiding them in
   - 2012 Poster at the 3th Colombian Congress of Astronomy and Astrophysics (CoCoA). Universidad Industrial de Santander (UIS), Bucaramanga, Santader. Poster: Gravitational lensing in the strong field limit: Bozza's method.
   - 2012 Summer School. Solar Astrophysics. Modern Trends and Techniques. Observatorio Astronómico Universidad Nacional de Colombia.
   - 2011 Poster at the 1th School of numerical Relativity. Oobservatorio Astronómico Universidad Nacional de Colombia, Bogotá. Poster: Space-time: properties and singularity theorems.
+
+
+-----------------------------------------------------------------------------
+
+# Books translations
+
+  - Together with my friend [Alejandro Cardenas Avendaño](https://alejandroc137.bitbucket.io) we translated to Spanish Prof. Bambi's textbook: Introduction to General Relativity. The English version of the book was published by Springer Nature Singapore in 2018 and since then downloaded millions (>3M) of times. The book was then translated to Chinese and published by Fudan University Press in 2020 after fixing some typos of the English version. With this version in Spanish, published by the prestigious [Editorial Reverté](https://www.reverte.com/libro/introduccion-a-la-relatividad-general_125091/), we are thus at the third edition of the book! The e-book can be found on [Amazon](https://www.amazon.com/Introducción-relatividad-general-estudiantes-Spanish-ebook/dp/B0983K7R4J/ref=sr_1_1?crid=1CQ80S2N39ITN&dib=eyJ2IjoiMSJ9.rZqIArQCI9-atpA4u2xRT7rAvZet1OTbwKgfORY2ACh33pL2IHtHnEgvNL6UOrzsV7vxLNutcW-wUi5EVcvTWdrYkpOy1Ca74ZCfs5BwUuyySXffJQW88y9xwETMRkqSm-G_tjuJXlL62cCFGgwRckGvjtUHUOGCH-UVuqJ7aQzhsviMzK09W7BQWilxUx3p7iPRfQqgYv1ymg4g7tKL-g.UydIvZ_O-WZBj9_D3MCqpPZNN3tLQUvgsEM40_akp2k&dib_tag=se&keywords=Introducción+a+la+relatividad+general&qid=1739806370&sprefix=introducción+a+la+relatividad+general%2Caps%2C120&sr=8-1).
     
