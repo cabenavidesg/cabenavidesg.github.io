@@ -1,8 +1,9 @@
 ---
-title:
+title:""
 permalink: "/Papers/"
 layout: page
 ---
+
 
 # Recent papers
 
