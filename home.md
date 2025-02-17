@@ -21,3 +21,6 @@ Welcome!
 
 Carlos A. Benavides-Gallego, Ph.D.
 
+# Welcome to my talk this week!
+![advertisement](/assets/UNManizales.JPG)
+
