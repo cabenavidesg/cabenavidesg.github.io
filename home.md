@@ -3,7 +3,7 @@ title: "Welcome to my personal webpage!"
 permalink: "/home/"
 layout: page
 ---
-![homepicture](/assets/home.jpg)
+![homepicture](/assets/IMG_6592.jpg)
 Hello! 
 
 This is my personal webpage. Here I will upload everthing about my work, research and hobbies. 
