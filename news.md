@@ -9,3 +9,6 @@ layout: page
 {% else %}
   {% include archive.html title="Posts" %}
 {% endif %}
+-------------------------------------------------------------
+
+![advertisement](/assets/UNManizales.JPG)
