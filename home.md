@@ -6,7 +6,7 @@ layout: page
 ![homepicture](/assets/IMG_6592.jpg)
 Hello! 
 
-This is my personal webpage. Here I will upload everthing about my work, research and hobbies. 
+This is my personal webpage. Here I will upload everything about my work, research and hobbies. 
 
 In this webpage you will find:
 
