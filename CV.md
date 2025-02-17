@@ -1,5 +1,5 @@
 ---
-title: "My Curriculum vitae"
+title: "MY CURRICULUM VITAE"
 permalink: "/CV/"
 layout: page
 ---
