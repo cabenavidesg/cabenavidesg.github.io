@@ -31,4 +31,11 @@ layout: page
 - [Gravitational lensing for a boosted Kerr black hole in the presence of plasma](https://link.springer.com/article/10.1140/epjc/s10052-018-6170-9). Carlos A. Benavides-Gallego, A.A. Abdujabbarov, Cosimo Bambi. Published in: Eur.Phys.J.C 78 (2018) 9, 694 • e-Print: 1804.09434 [gr-qc].
 - [Unattainable extended spacetime regions in conformal gravity](https://link.springer.com/article/10.1007/JHEP03(2018)013). Hrishikesh Chakrabarty, Carlos A. Benavides-Gallego, Cosimo Bambi, Leonardo Modesto. Published in: JHEP 03 (2018) 013 • e-Print: 1711.07198 [gr-qc].
 - [Gravitational lensing in the strong field limit for Kar's metric](https://link.springer.com/article/10.1007/s10773-015-2861-2). Carlos A. Benavides, Alejandro Cardenas-Avendano, Alexis Larranaga. Published in: Int.J.Theor.Phys. 55 (2016) 4, 2219-2236 • e-Print: 1410.4190 [gr-qc].
+- [A regular black hole in the Braneworld](https://rjp.nipne.ro/2014_59_1-2.html). Alexis Larranaga, Carlos A. Benavides-Gallego, Christian Rodriguez. Published in: Romanian Journal of Physics 59 number 1-2.
 
+-----------------------------------------------------------------------------------------------------------------
+
+# Sicientific dissemination
+
+- [Todos tenemos derecho a explorar el cosmos. Sobre la construccion de un telescopio reflector casero](https://innovacionyciencia.com/public/revista/85#page/4). Carlos A. Benavides-Gallego. Published in: Asociación
+Colombiana para el avance de la ciencia XXIII number 2 (2016) page 82.
