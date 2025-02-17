@@ -17,3 +17,4 @@ layout: page
 # Papers
 
 - [Dynamics of spinning test particles around the Kerr–Newman–NUT black hole with quintessence in the Rastall gravity](https://link.springer.com/article/10.1140/epjp/s13360-023-04283-9). Farrux Abdulxamidov, Carlos A. Benavides-Gallego, Bakhtiyor Narzilloev, Ibrar Hussain, Ahmadjon Abdujabbarov, and Haiguang Xu. Published in: Eur.Phys.J.Plus 138 (2023) 7, 635.
+- [Comparing spin supplementary conditions for particle motion around traversable wormholes](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.064050). Carlos A. Benavides-Gallego, Jose Miguel Ladino and Eduard Larrañaga. Published in: Phys.Rev.D 108 (2023) 6, 064050 • e-Print: 2306.17394 [gr-qc]
