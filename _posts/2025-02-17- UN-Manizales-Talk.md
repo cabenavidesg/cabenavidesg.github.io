@@ -5,4 +5,4 @@ layout: post
 categories: media
 ---
 
-![advertisement](/assets/UNManizales.JPG))
+![advertisement](/assets/UNManizales.JPG)
