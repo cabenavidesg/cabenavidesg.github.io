@@ -1,5 +1,5 @@
 ---
-title:""
+title:
 permalink: "/Papers/"
 layout: page
 ---
