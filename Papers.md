@@ -27,4 +27,6 @@ layout: page
 - [Quasiharmonic oscillations of charged particles in static axially symmetric space-times immersed in a uniform magnetic field](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.124024). Carlos A. Benavides-Gallego, Ahmadjon Abdujabbarov, Daniele Malafarina, Cosimo Bambi. Published in: Phys.Rev.D 101 (2020) 12, 124024 • e-Print: 2005.07554 [gr-qc].
 - [Boosted Kerr black hole in the presence of plasma](https://www.mdpi.com/2504-3900/17/1/6). Carlos A. Benavides-Gallego, Ahmadjon Abdujabbarov. Published in: MDPI Proc. 17 (2019) 1, 6 • Contribution to: Recent Progress in Relativistic Astrophysics, 6 • e-Print: 1907.10221 [gr-qc].
 - [Charged particle motion and electromagnetic field in γ spacetime](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.044012). Carlos A. Benavides-Gallego, Ahmadjon Abdujabbarov, Daniele Malafarina, Bobomurat Ahmedov, Cosimo Bambi. Published in: Phys.Rev.D 99 (2019) 4, 044012 • e-Print: 1812.04846 [gr-qc].
+- [Rotating and nonlinear magnetic-charged black hole surrounded by quintessence](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.044038). Carlos A. Benavides-Gallego, A.A. Abdujabbarov, Cosimo Bambi. Published in: Phys.Rev.D 101 (2020) 4, 044038 • e-Print: 1811.01562 [gr-qc].
+- 
 
