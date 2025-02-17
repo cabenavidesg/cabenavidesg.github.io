@@ -28,5 +28,5 @@ layout: page
 - [Boosted Kerr black hole in the presence of plasma](https://www.mdpi.com/2504-3900/17/1/6). Carlos A. Benavides-Gallego, Ahmadjon Abdujabbarov. Published in: MDPI Proc. 17 (2019) 1, 6 • Contribution to: Recent Progress in Relativistic Astrophysics, 6 • e-Print: 1907.10221 [gr-qc].
 - [Charged particle motion and electromagnetic field in γ spacetime](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.044012). Carlos A. Benavides-Gallego, Ahmadjon Abdujabbarov, Daniele Malafarina, Bobomurat Ahmedov, Cosimo Bambi. Published in: Phys.Rev.D 99 (2019) 4, 044012 • e-Print: 1812.04846 [gr-qc].
 - [Rotating and nonlinear magnetic-charged black hole surrounded by quintessence](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.044038). Carlos A. Benavides-Gallego, A.A. Abdujabbarov, Cosimo Bambi. Published in: Phys.Rev.D 101 (2020) 4, 044038 • e-Print: 1811.01562 [gr-qc].
-- 
+- [Gravitational lensing for a boosted Kerr black hole in the presence of plasma](https://link.springer.com/article/10.1140/epjc/s10052-018-6170-9). Carlos A. Benavides-Gallego, A.A. Abdujabbarov, Cosimo Bambi. Published in: Eur.Phys.J.C 78 (2018) 9, 694 • e-Print: 1804.09434 [gr-qc].
 
