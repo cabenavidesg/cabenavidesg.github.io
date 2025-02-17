@@ -96,6 +96,8 @@ As a postdoc researcher, I have mentored the following students, guiding them in
 
 # Talks/Seminars/Conferences/Proceedings
 
-  - 2025 Talk: General Relativity: consequences and applications. Universidad Nacional de Colombia sede Manizales.
+  - 2025 Talk: "General Relativity: consequences and applications." Universidad Nacional de Colombia sede Manizales.
   - 2020 Coloquio de Astronomía: [Lentes Gravitacionales, quinta esencia y movimiento de partículas](https://www.youtube.com/watch?v=ceF_911Gl50). Universidad Nacional de Colombia, Bogotá.
+  - Seminar at the Institute for Theoretical physics and Cosmology Zheijian University of Technology Hangzhou, China. Talk: "Charged particle motio and electromagnetic field in gamma spacetime."
+  - Conference: Recent Progress in Relativistic Astrophysics, Shanghai, China, 6-8 May. Fudna University, Center for field Theory and Particle physics and Deparment of Physics. Talk: "Boosted Kerr black hole in the precense of plasma."
   - 2014 Talk: [El Universo como una Lente: de los Corpúsculos de Newton a la Teoría General de la Relatividad](https://www.youtube.com/watch?v=Z5HWRebNzYo&t=1189s). Universidad Nacional de Colombia, Bogotá.
