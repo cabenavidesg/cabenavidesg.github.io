@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Image of spherical black hole with thin accretion disk (Luminet 1979)"
 mathjax: true
 layout: post
 categories: media
