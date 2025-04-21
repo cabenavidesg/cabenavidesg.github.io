@@ -55,7 +55,7 @@ def V(r):
     return Veff
 {% endhighlight %}
 
-![Effective potential](/assets/Effective Potential.png)
+![Effective potential](/assets/EffectivePotential.png)
 ## Code
 
 Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
