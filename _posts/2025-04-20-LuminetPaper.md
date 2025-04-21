@@ -24,21 +24,19 @@ $$ds^2 = -\left(1-\frac{2M}{r}\right)dt^2+\left(1-\frac{2M}{r}\right)^{-1}dr^2+r
 
 where $$r$$, $$\theta$$ and $$\varphi$$ are spherical coordinates and the unit system is chosen such that $$G=c=1$$. $$M$$ is the relativistic mass of the black hole (which has dimenssions of lenght). In this standard coordinate system the horizon forming the surface of the hole is located a the Schwarzschild radius $$r_s=2M$$, see Eq.(1).
 
-## MathJax
+One can take advanange of the spherical symmetry to choose the equatorial plane $$\theta=\pi/2$$ so as to contain any particular photon trajectory under consideration. The trajectories will then satisfy the differential equation (See derivation equation 2):
 
-You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
+$$\left\{\frac{1}{r^2}\left(\frac{dr}{d\varphi}\right)^2\right\}^2+\frac{1}{r^2}\left(1-\frac{2M}{r}\right)=\frac{1}{b^2}\quad(2)$$
 
-[Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
+The second term in the left member can be interpreted as the effective potential $$V(r)$$, in analogy with the non-relativistic mechanics. The motion does not depend on the photon energy $$E$$ and on its angular momentum $$L$$, but only on the ration $$L/E=b$$, which is the impact parameter at infinty.
 
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+Let the observer be in a direction fixed by the polar angle $$\varphi_0$$ in the Schwarschild metric, at a radius $$r_0>> M$$ (the observer is at infinity). The rays emitted by a distance source of light deflected by the black hole intersect the observert's detector (for example a photographic plate) at a distance $$b$$ from the the central point of the plaque. From (2), one sees that a ray with impac parameter $$b$$ can reach a point at a distance $$r$$ ony if $$b\leq [V(r)]^{-1/2}$$. This can be seen directly from (2), from which
 
-The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
+$$\frac{1}{r^2}\left(\frac{dr}{d\varphi}\right)=\sqrt{\frac{1}{b^2}-V(r)}$$
 
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
 
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) describes how the quantum state of a quantum system changes with time.
 
-$$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
+
 
 ## Code
 
