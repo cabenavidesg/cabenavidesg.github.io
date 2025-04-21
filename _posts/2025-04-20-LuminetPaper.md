@@ -67,7 +67,7 @@ Let us call $$u_1$$, $$u_2$$ and $$u_3$$, the roots of $$G(u)$$, with $$u_1< u_2
    2. $$b = b_c$$: $$u_1=-\frac{1}{6M}$$, $$u_2 = u_3 = \frac{1}{3M}$$.
    3. $$b < b_c$$: $$u_1\le 0$$, $$u_2$$, and $$u_3$$ complex conjugate.
 
-
+So, given a value of the periastron, we obtain a value for the impact parameeter at infintiy. 
 
 
 
