@@ -38,30 +38,14 @@ It is clear that the rim of te ''optical'' black hole corresponds to rays which 
 
 {% highlight python %}
 """
-Here you can see the code for the plot below.
+In this part of the code, we define the black hole mass M, the Schwarzschild radius r_s (horizon), the photon radius (critical radius) and the function representing the effective potential. We use geometrized units and create an arrange of values for r
 """
-"""
-The black hole mass, we use geometriced units
 """
 M = 1
-
-"""
-Horizon (Schwarzschild radius)
-"""
 r_s = 2*M
-
-"""
-Photon sphere radius
-"""
 r_c = 3*M
-"""
-The values of the radial coordinate 
-"""
-radial_coordinate = np.arange(r_s,100, 0.01)
-"""
-Apparent Horizon
-"""
 b_c = 3*np.sqrt(3)*M
+radial_coordinate = np.arange(r_s,100, 0.01)
 """
 Definition of the effective potential
 """
@@ -69,7 +53,6 @@ def V(r):
     Veff = (1/r**2)*(1-r_s/r)
     return Veff
 {% endhighlight %}
-
 
 ## Code
 
