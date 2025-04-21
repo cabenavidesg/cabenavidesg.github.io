@@ -26,7 +26,7 @@ where $$r$$, $$\theta$$ and $$\varphi$$ are spherical coordinates and the unit s
 
 One can take advanange of the spherical symmetry to choose the equatorial plane $$\theta=\pi/2$$ so as to contain any particular photon trajectory under consideration. The trajectories will then satisfy the differential equation (See derivation equation 2):
 
-$$\left{\frac{1}{r^2}\left(\frac{dr}{d\varphi}\right)^2\right}^2+\frac{1}{r^2}\left(1-\frac{2M}{r}\right)=\frac{1}{b^2}\quad(2)$$
+$$\left(\frac{1}{r^2}\left(\frac{dr}{d\varphi}\right)^2\right)^2+\frac{1}{r^2}\left(1-\frac{2M}{r}\right)=\frac{1}{b^2}\quad(2)$$
 
 The second term in the left member can be interpreted as the effective potential $$V(r)$$, in analogy with the non-relativistic mechanics. The motion does not depend on the photon energy $$E$$ and on its angular momentum $$L$$, but only on the ration $$L/E=b$$, which is the impact parameter at infinty.
 
