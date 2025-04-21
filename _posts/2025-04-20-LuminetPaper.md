@@ -37,8 +37,21 @@ $$\frac{1}{r^2}\left(\frac{dr}{d\varphi}\right)=\sqrt{\frac{1}{b^2}-V(r)}$$
 It is clear that the rim of te ''optical'' black hole corresponds to rays which arre marginally trapped by the balck hole: the spiral around many times before reaching the observer, and in our case the rim (borde) is located at $$b_c= 3\sqrt{3M}\approx 5.19695M$$. Thus, the apparent diameter of the hole is about $$10.38$$.
 
 {% highlight python %}
-def hello():
-    print("Hello, GitHub!")
+# Here you can see the code for the plot below
+# The black hole mass, we use geometriced units 
+M = 1
+# Horizon (Schwarzschild radius)
+r_s = 2*M
+# Photon sphere radius
+r_c = 3*M
+# The values of the radial coordinate 
+radial_coordinate = np.arange(r_s,100, 0.01)
+# Apparent Horizon
+b_c = 3*np.sqrt(3)*M
+# Definition of the effective potential
+def V(r):
+    Veff = (1/r**2)*(1-r_s/r)
+    return Veff
 {% endhighlight %}
 
 
