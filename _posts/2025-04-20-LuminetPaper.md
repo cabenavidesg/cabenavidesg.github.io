@@ -69,7 +69,7 @@ Let us call $$u_1$$, $$u_2$$ and $$u_3$$, the roots of $$G(u)$$, with $$u_1< u_2
 
 We are interested in orbits reaching the observer's plane, i. e., for which $$b > b_c$$. These orbits posses a periastron, and itis convenient to express all the quantities in terms of the periastron distance $$P$$. so that if we let: $$Q^2\equiv (P-2M)(P-6M)$$, we get (See the derivation of equations 4, 5 and 6.):
 
-$$u_1= -\frac{Q-P+2M}{4MP}$$, $$u_2=\frac{1}{P},$$, $$u_3 = \frac{Q+P-2M}{4MP}$$ 
+$$u_1= -\frac{Q-P+2M}{4MP}, u_2=\frac{1}{P}, u_3 = \frac{Q+P-2M}{4MP} \quad(4)$$ 
 
 $b^2  = \frac{P^3}{(P-2M)} \quad(5)$
 
