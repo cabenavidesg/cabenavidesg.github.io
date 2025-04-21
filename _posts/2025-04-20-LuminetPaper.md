@@ -36,6 +36,12 @@ $$\frac{1}{r^2}\left(\frac{dr}{d\varphi}\right)=\sqrt{\frac{1}{b^2}-V(r)}$$
 
 It is clear that the rim of te ''optical'' black hole corresponds to rays which arre marginally trapped by the balck hole: the spiral around many times before reaching the observer, and in our case the rim (borde) is located at $$b_c= 3\sqrt{3M}\approx 5.19695M$$. Thus, the apparent diameter of the hole is about $$10.38$$.
 
+{% highlight c %}
+def hello():
+    print("Hello, GitHub!")
+{% endhighlight %}
+
+
 ## Code
 
 Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
