@@ -12,18 +12,17 @@ categories: media
 Black hole accretion distks are crretnly a topic of widespread interest in astrophysics and are suppose to play and important role in a number of high-energy situations. The present paper contains an investigation of the optical appearance of a spherical black hole sourrounde by a thin accretion disk. Isoradial curves corresponding to photons emitted at constant radius from the hole as seen by a distant observer in arbitrary direction have been plotted, as well as spectral shifts arising from gravitational and doppler shifts. By the results of Page and Thorne (1974) the relative intrisinc intensiy of radiation emitted by the disk at a given radius is a known function of the radius only, so that it is possible to calculate the exact distribution of observerd  bolometric flux. Direct and secondary images are plotted and the strong asymmetry in the flux distribution due to the rotation of the disk  is exhibited. Finally, a simulated photograph is constructed, valid for black holes of any mass accreting matter at any moferate rate. 
 
 ## Introduction
-<div style="text-align:justify">
+
 In order to be visible a black hole has of course to by illuminated, like any ordinary body. One of the simplest possibilities would be for the black hole to be illuminated by a distant localized source which in practice might be a companion star in a loosely bound binary system. A more interesting and observationally important possibility is that in which the light source is provided by an emitting accretion disk around the black hole, such as may occurt in a tight binary system with overflow from the primary, and perhaps also on a much larger scale in a dense galactic nucleus. The general problem of a the oprical appearance of a black hole is relared to the analysis of trajectories in the gravitational field of black holes. For spherical, static, electric-free black holes (whose external space-time geometry is described by Schwarzschild metric) this problem is already well know (Hagihara, 1931; Darwin, 1959; for a summary, see Miner etal. 1973 MTW). In Sec. 2 we give only a brief outline of it with basic equations, trying to point out the major features which appear latter. All our calculations are don in the geometrical optics approximation (for a study of wave-aspects, see Sanchez, 1977). In Sec. 3 we calculate the apparent shape of the circular rings orbiting a non-rotating black hole and the results are depicted in Figs. 5-6. In Sec. 4 we recall the standard analysis by Novikov and Thorne (1973) of the problem of energy release by a thin accretion disk in a general astrophysical context, focusing attention more particularly on the analytic solution for the surface distribution of energy release that was derived by Page and Thorne (1974) in the limiting case of a sufficiently low accretion rate. In terms of this idealized (but appropriate circumstances, realistic) model, we calculate the distribution of bolometric flux as seen by distant observers at various angles above the plane of the disk (Figs. 9-11).
 
 ## Images of Bare Black holes
-<div style="text-align:justify">
+
 Before analyzing the general problems of a spherical black hole surrounded by an emitting accretion disk, it is instructive to investigate a more simple case in which all the dynamics are already contained, namely the problem of the return of ligth from a bare black hole illuminated by a light beam projected by a distant source. It is conceptually interesting to calculate the precise apparent pattern of the reflected light, since some of the main characteristics features of the general geometrical optics problem are illustrated thereby.
 
 The Schawarzschild metric for a static pure vacuum black hole may be written as
-\begin{equation}
-\label{Eq1}
-ds^2 = -\left(1-\frac{2M}{r}\right)dt^2+\left(1-\frac{2M}{r}\right)^{-1}dr^2+r^2\left(d\theta^2+\sin^2\theta d\varphi^2\right)
-\end{equation}
+
+$$ds^2 = -\left(1-\frac{2M}{r}\right)dt^2+\left(1-\frac{2M}{r}\right)^{-1}dr^2+r^2\left(d\theta^2+\sin^2\theta d\varphi^2\right)$$
+
 
 ## MathJax
 
