@@ -56,21 +56,23 @@ def V(r):
 {% endhighlight %}
 
 ![Effective potential](/assets/EffectivePotential.png)
-## Code
 
-Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
+Let usreturn to Eq. (2). Letting $u=1/r$, we get (See derivation equation 3):
 
-{% highlight c %}
+$$\left(\frac{du}{d\varphi}\right)^2=2Mu^3-u^2+\frac{1}{b^2}\equiv 2MG(u)\quad(3)$$
 
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
+Let us call $$u_1$$, $$u_2$$ and $$u_3$$, the roots of $$G(u)$$, with $$u_1< u_2< u_3$$, if they are all real. Comploete information about the rays is contained in (3), so it is useful to investigate its mathematical structure. It is easy to see that $$G(u)$$ possesses only one real root (because $$u_1u_2+u_1u_3+u_2u_3=0$$; see [Chandrasekhar](https://inspirehep.net/literature/224457), and that we have the following possible cases:
 
-{% endhighlight %}
+   1. $$b > b_c$$: $$u_1 \le 0< u_2 < u_3$$.
+   2. $$b = b_c$$: $$u_1=-\frac{1}{6M}$$, $$u_2 = u_3 = \frac{1}{3M}$$.
+   3. $$b < b_c$$: $$u_1\le 0$$, $$u_2$$, and $$u_3$$ complex conjugate.
+
+
+
+
+
+
+
 
 ## Gists
 
