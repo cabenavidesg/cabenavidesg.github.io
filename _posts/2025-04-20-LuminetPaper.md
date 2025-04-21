@@ -39,7 +39,7 @@ It is clear that the rim of te ''optical'' black hole corresponds to rays which 
 {% highlight python %}
 """
 In this part of the code, we define the black hole mass M, the Schwarzschild radius r_s (horizon), 
-the photon radius (critical radius) and the function representing the effective potential. 
+the photon radius r_c (critical radius), the critical impact parameter b_c, and the function effective potential. 
 We use geometrized units and create an arrange of values for r.
 """
 M = 1
