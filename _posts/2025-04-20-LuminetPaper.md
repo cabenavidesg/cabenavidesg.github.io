@@ -71,7 +71,7 @@ We are interested in orbits reaching the observer's plane, i. e., for which $$b 
 
 $$u_1= -\frac{Q-P+2M}{4MP}, u_2=\frac{1}{P}, u_3 = \frac{Q+P-2M}{4MP} \quad(4)$$ 
 
-$b^2  = \frac{P^3}{(P-2M)} \quad(5)$
+$$b^2  = \frac{P^3}{(P-2M)} \quad(5)$$
 
 So, given a value of the periastron, we obtain a value for the impact parameeter at infintiy. 
 <!-- Ojo: There is a typo in Eq. (5).The impact parameter b should be $b^2$  -->
