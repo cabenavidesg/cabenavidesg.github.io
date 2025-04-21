@@ -20,12 +20,9 @@ Before analyzing the general problems of a spherical black hole surrounded by an
 
 The Schawarzschild metric for a static pure vacuum black hole may be written as
 
-\begin{equation}
-\label{Eq1}
-ds^2 = -\left(1-\frac{2M}{r}\right)dt^2+\left(1-\frac{2M}{r}\right)^{-1}dr^2+r^2\left(d\theta^2+\sin^2\theta d\varphi^2\right)
-\end{equation}
+$$ds^2 = -\left(1-\frac{2M}{r}\right)dt^2+\left(1-\frac{2M}{r}\right)^{-1}dr^2+r^2\left(d\theta^2+\sin^2\theta d\varphi^2\right)\quad(1)$$
 
-where $r$, $\theta$ and $\varphi$ are spherical coordinates and the unit system is chosen such that $G=c=1$. $M$ is the relativistic mass of the black hole (which has dimenssions of lenght). In this standar coordinate system the horizon forming the surface of the hole is located a the Schwarzschild radius $r_s=2M$, see Eq.\eqref{eq:Eq1}.
+where $$r$$, $\theta$ and $\varphi$ are spherical coordinates and the unit system is chosen such that $G=c=1$. $M$ is the relativistic mass of the black hole (which has dimenssions of lenght). In this standar coordinate system the horizon forming the surface of the hole is located a the Schwarzschild radius $r_s=2M$, see Eq.(1).
 
 ## MathJax
 
