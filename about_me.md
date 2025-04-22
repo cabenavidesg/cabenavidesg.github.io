@@ -4,6 +4,8 @@ permalink: "/about me/"
 layout: page
 ---
 
+![First black hole image](/assets/Image1979.png)
+
 Hello! I’m Carlos A. Benavides-Gallego
 
 I began studying a B.Sc. in physics at the Universidad Nacional de Colombia in Bogotá. Then, in 2014, I obtained an MSc. in Astronomy at the Observatorio Astronomico Nacional from the Universidad Nacional de Colombia. From 2013 to 2017, I worked as a lecturer at different universities in Bogota, such as Universidad Konrad Lorenz, Universidad Catolica de Colombia, and Escuela de Ingenieros Militares (ESING). As a lecturer at Universidad Konrad Lorenz, I participated in two projects for science dissemination in high schools, where we guided students to build radio and Newtonian telescopes. 
