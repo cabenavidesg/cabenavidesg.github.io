@@ -4,7 +4,7 @@ permalink: "/about me/"
 layout: page
 ---
 
-![First black hole image](/assets/Image1979.png)
+![First black hole image](/assets/about_me_fig.png)
 
 Hello! I’m Carlos A. Benavides-Gallego
 
