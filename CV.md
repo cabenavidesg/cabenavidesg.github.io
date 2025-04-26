@@ -4,7 +4,7 @@ permalink: "/CV/"
 layout: page
 ---
 
-![Consulate talk](/assets/CVFigure.png)
+![Consulate talk](/assets/CVfigure.png)
 
 # Personal information
 - Name: Carlos A. Benavides-Gallego.
