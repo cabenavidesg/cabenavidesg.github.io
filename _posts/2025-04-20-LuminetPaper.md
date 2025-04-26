@@ -77,25 +77,10 @@ So, given a value of the periastron, we obtain a value for the impact parameeter
 
 
 Equation (3) must be integrated over the range of values where $$u$$ and $$G(u)$$ are positive; i. e. between $$u_2$$ and $$0$$. Figure 1 shows the corresponding trajectory of the ray. We assume that $$r_0>> M$$ is really at infinity (i. e. that the impact parameter on the plate is really $$b$$, which is a good assumption), so that the final value, $$\varphi_\infty$$, of $$\varphi$$ is given by:
+
 $$\varphi_\infty = \frac{1}{\sqrt{2M}}\int^{u_2}_0\frac{dx}{\sqrt{G(x)}}\quad(5a)$$.
     
-This integral can be transformed into a classical Jacobian elliptic integral (SeeDerivation equations 4, 5 and 6):
 
-
-
-Here, $$K(\kappa)$$ is the complete elliptic integral of modulus
-
-$$\kappa \equiv \left(Q-P\frac{6M}{2Q}\right)^{1/2}$$,
-
-$$F(\zeta_\infty.\kappa)$$ is the elliptic integral of modulus $$\kappa$$ and argument $$\zeta_\infty$$ such that 
-
-$$\sin^2\zeta_\infty = \frac{Q-P+2M}{Q-P+6M}$$.
-
-The total deviation of the light ray, $\mu$, is given by 
-
-$$\varphi_\infty=\frac{\pi}{2}+\frac{\mu}{2}$$.
-
-it is interesting to give the formulas at the limit $P>>M$ and $P\rightarrow 3M$.
 
 ## Enjoy reading this post while listen the Interstellar music!
 
