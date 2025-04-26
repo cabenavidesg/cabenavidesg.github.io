@@ -182,11 +182,38 @@ plt.ylim(0.0,1)
 plt.grid(True)
 {% endhighlight %}
 
+{% highlight python %}
+N = 1000
+edge = 10
+X = np.linspace(-edge,edge,N)
+Y = np.linspace(-edge,edge,N)
+b = np.zeros([N,N])
+shadow_ring = np.zeros([N,N])
+
+for j in range(len(X)):
+    for i in range(len(Y)):
+        b[i,j] = np.sqrt(X[i]**2 + Y[j]**2)
+        shadow_ring[i,j] = Io_interpol(b[i,j])
+maxv = shadow_ring.max()
+minv = shadow_ring.min()
+
+cmap = 'bone'#'gist_gray'
+imgedge= edge
+extent =[-imgedge, imgedge, -imgedge, imgedge]
+
+plt.figure(figsize=(10, 10))
+plt.title('Shadow - static spherical accretion',fontsize=14)
+plt.imshow(shadow_ring,cmap=cmap, origin='lower',vmax=maxv, vmin=minv, extent=extent)
+plt.xlabel(r'$X$',fontsize=14)
+plt.ylabel(r'$Y$',fontsize=14)
+{% endhighlight %}
+
+
 | Especific intensity (static spherical accretion)| Shadow (static spherical accretion) |
 |----------|----------|
 | ![](/assets/IntensisityFigure.png) | ![](/assets/ShadowFigure.png) |
 
-
+## Images of Clothed Black holes
 
 
 ## Enjoy reading this post while listen the Interstellar music!
