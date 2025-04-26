@@ -76,11 +76,11 @@ $$b^2  = \frac{P^3}{(P-2M)} \quad(5)$$
 So, given a value of the periastron, we obtain a value for the impact parameeter at infintiy. 
 
 
-Equation (3) must be integrated over the range of values where $$u$$ and $$G(u)$$ are positive; i. e. between $$u_2$$ and $$0$$<sup>1</sup>. Figure 1 shows the corresponding trajectory of the ray. We assume that $$r_0>> M$$ is really at infinity (i. e. that the impact parameter on the plate is really $$b$$, which is a good assumption), so that the final value, $$\varphi_\infty$$, of $$\varphi$$ is given by:
+Equation (3) must be integrated over the range of values where $$u$$ and $$G(u)$$ are positive; i. e. between $$u_2$$ and $$0$$. Figure 1 shows the corresponding trajectory of the ray. We assume that $$r_0>> M$$ is really at infinity (i. e. that the impact parameter on the plate is really $$b$$, which is a good assumption), so that the final value, $$\varphi_\infty$$, of $$\varphi$$ is given by:
 
 $$\varphi_\infty = \frac{1}{\sqrt{2M}}\int^{u_2}_0\frac{dx}{\sqrt{G(x)}}\quad(5a)$$.
     
-This integral can be transformed into a classical Jacobian elliptic integral (SeeDerivation equations 4, 5 and 6)::
+This integral can be transformed into a classical Jacobian elliptic integral (SeeDerivation equations 4, 5 and 6):
 
 $$\varphi_\infty &= 2\left(\frac{P}{Q}\right)^{1/2}\int^{\pi/2}_{\zeta_\infty}(1-\kappa^2\sin^2x)^{-1/2}dx\\
 &= 2\left(\frac{P}{Q}\right)^{1/2}\left\{K(\kappa)-F(\zeta_\infty,\kappa)\right\} \quad(6)$$.  
