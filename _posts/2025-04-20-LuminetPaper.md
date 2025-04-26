@@ -76,7 +76,7 @@ $$b^2  = \frac{P^3}{(P-2M)} \quad(5)$$
 So, given a value of the periastron, we obtain a value for the impact parameeter at infintiy. 
 
 
-![First black hole image](/assets/Image1979.png)
+![First black hole image](/assets/figure1.jpeg)
 
 
 Equation (3) must be integrated over the range of values where $$u$$ and $$G(u)$$ are positive; i. e. between $$u_2$$ and $$0$$. Figure 1 shows the corresponding trajectory of the ray. We assume that $$r_0>> M$$ is really at infinity (i. e. that the impact parameter on the plate is really $$b$$, which is a good assumption), so that the final value, $$\varphi_\infty$$, of $$\varphi$$ is given by:
