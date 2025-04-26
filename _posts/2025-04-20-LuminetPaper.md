@@ -95,7 +95,7 @@ Here, $$K(\kappa)$$ is the complete elliptic integral of modulus
 
 $$\kappa \equiv \left(Q-P\frac{6M}{2Q}\right)^{1/2}$$
 
-
+$$F(\zeta\infty.\kappa)$$ is the elliptic integral of modulus $$\kappa$$ and argument $$\zeta_\infty$$ such that
 
 
 
