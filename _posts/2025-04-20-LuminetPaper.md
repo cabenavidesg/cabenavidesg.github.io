@@ -107,7 +107,7 @@ $$
 \varphi_\infty=\frac{\pi}{2}+\frac{\mu}{2}.
 $$
 
-it is interesting to give the formulas at the limit $$P>>M$$ and $$P\rightarrow 3M$$.
+It is interesting to give the formulas at the limit $$P>>M$$ and $$P\rightarrow 3M$$. For very large $$P$$ (weak field approximation) we verify immediately that $$\mu\sim 4M/P$$, $$P\rightarrow b$$. This famous formula for the deflection of light ray in the gravitational field of a spherical star leads to the Rutherford limit for the differential cross-section. 
 
 
 
