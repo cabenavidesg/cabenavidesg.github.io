@@ -83,6 +83,13 @@ Equation (3) must be integrated over the range of values where $$u$$ and $$G(u)$
 
 $$\varphi_\infty = \frac{1}{\sqrt{2M}}\int^{u_2}_0\frac{dx}{\sqrt{G(x)}}\quad(5a)$$
     
+This integral can be transformed into a classical Jacobian elliptic integral (See derivation of equations 4,5 and 6 )
+
+
+
+
+
+
 
 
 ## Enjoy reading this post while listen the Interstellar music!
