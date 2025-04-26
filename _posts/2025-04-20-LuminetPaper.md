@@ -184,7 +184,7 @@ plt.grid(True)
 
 | Especific intensity (static spherical accretion)| Shadow (static spherical accretion) |
 |----------|----------|
-| ![](/assets/Image1979.png) | ![](/assets/Image1979.png) |
+| ![](/assets/IntensityFigure.png) | ![](/assets/ShadowFigure.png) |
 
 
 
