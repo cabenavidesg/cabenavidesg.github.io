@@ -87,7 +87,8 @@ This integral can be transformed into a classical Jacobian elliptic integral (Se
 
 $$
 \begin{aligned}
-\varphi_\infty &= 2\left(\frac{P}{Q}\right)^{1/2}\int^{\pi/2}_{\zeta\infty}(1-\kappa^2\sin^2x)^{-1/2}dx = 2\left(\frac{P}{Q}\right)^{1/2} \left(K(\kappa)-F(\zeta\infty,\kappa)\right) \quad(6).
+\varphi_\infty &= 2\left(\frac{P}{Q}\right)^{1/2}\int^{\pi/2}_{\zeta\infty}(1-\kappa^2\sin^2x)^{-1/2}dx = 2\left(\frac{P}{Q}\right)^{1/2} \left(K(\kappa)-F(\zeta\infty,\kappa)\right)
+\quad(6)
 \end{aligned}
 $$
 Here, $$K(\kappa)$$ is the complete elliptic integral of modulus
