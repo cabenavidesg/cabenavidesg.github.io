@@ -182,6 +182,10 @@ plt.ylim(0.0,1)
 plt.grid(True)
 {% endhighlight %}
 
+| Figure 1 | Figure 2 |
+|----------|----------|
+| ![](figure1.png) | ![](figure2.png) |
+
 
 
 
