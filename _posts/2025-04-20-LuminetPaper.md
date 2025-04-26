@@ -107,7 +107,7 @@ For $$P$$ near the critical value $$3M$$, i.e. for $$b$$ near $$b_c$$, the asymp
 
 $$b = 5.19695M+3.4823M e^{-\mu} \quad(7)$$
 
-In fact, the particles that come off at a given angle $\mu$ in clude not only those that have really been deflected by $\mu$, also those that have been deflected by $\mu+2\pi$, $\mu+4\pi$, ..., $\mu+2n\pi$, etc. (an infinite series of contributions), and which correspond to the following impact parameters (See the derivation here):
+In fact, the particles that come off at a given angle $$\mu$$ in clude not only those that have really been deflected by $$\mu$$, also those that have been deflected by $$\mu+2\pi$$, $$\mu+4\pi$$, ..., $$\mu+2n\pi$$, etc. (an infinite series of contributions), and which correspond to the following impact parameters (See the derivation here):
 
 $$
 \begin{aligned}
@@ -120,7 +120,13 @@ b_\infty&=b_c & \text{(infinity circuits)}\\
 \end{aligned}
 $$
 
+We see that the nth order contribution to the differential cross section is proprotional to
 
+$$
+\frac{db_n}{d\mu} = -  3.4823 M e^{-(\mu+2n\pi)}\quad(8)
+$$
+
+Thus the total contribution of successive numbers of circuits is proportional to $$\sum^{\infty}_0e^{-2n\pi}=\frac{1}{1-e^{-2\pi}}$$. Thus in practice the contribution for $$n\geq 2$$ is really negligeble. We shall see bellow the observational consequences of this fact.
 
 
 
