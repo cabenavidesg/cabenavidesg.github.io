@@ -95,7 +95,7 @@ Here, $$K(\kappa)$$ is the complete elliptic integral of modulus
 
 $$\kappa \equiv \left(Q-P\frac{6M}{2Q}\right)^{1/2}$$
 
-And $$F(\zeta\infty.\kappa)$$ is the elliptic integral of modulus $$\kappa$$ and argument $$\zeta_\infty$$ such that
+and $$F(\zeta\infty.\kappa)$$ is the elliptic integral of modulus $$\kappa$$ and argument $$\zeta_\infty$$ such that
 
 $$
 \sin^2\zeta_\infty = \frac{Q-P+2M}{Q-P+6M}.
