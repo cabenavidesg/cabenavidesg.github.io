@@ -107,7 +107,18 @@ For $$P$$ near the critical value $$3M$$, i.e. for $$b$$ near $$b_c$$, the asymp
 
 $$b = 5.19695M+3.4823M e^{-\mu} \quad(7)$$
 
+In fact, the particles that come off at a given angle $\mu$ in clude not only those that have really been deflected by $\mu$, also those that have been deflected by $\mu+2\pi$, $\mu+4\pi$, ..., $\mu+2n\pi$, etc. (an infinite series of contributions), and which correspond to the following impact parameters:
 
+$$
+\begin{aligned}
+b_0&=\\
+b_1&=\\
+...&...\\
+b_n&=\\
+...&...\\
+b_\infty&=b_c\\
+\end{aligned}
+$$
 
 
 
