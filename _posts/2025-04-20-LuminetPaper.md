@@ -107,7 +107,7 @@ $$
 \varphi_\infty=\frac{\pi}{2}+\frac{\mu}{2}.
 $$
 
-it is interesting to give the formulas at the limit $P>>M$ and $P\rightarrow 3M$.
+it is interesting to give the formulas at the limit $$P>>M$$ and $$P\rightarrow 3M$$.
 
 
 
