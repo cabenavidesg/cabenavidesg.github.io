@@ -37,12 +37,12 @@ $$\frac{1}{r^2}\left(\frac{dr}{d\varphi}\right)=\sqrt{\frac{1}{b^2}-V(r)}$$
 It is clear that the rim of te ''optical'' black hole corresponds to rays which arre marginally trapped by the balck hole: the spiral around many times before reaching the observer, and in our case the rim (borde) is located at $$b_c= 3\sqrt{3M}\approx 5.19695M$$. Thus, the apparent diameter of the hole is about $$10.38$$.
 
 {% highlight python %}
-"""
-In this part of the code, we define the black hole mass M, the Schwarzschild radius r_s (horizon), 
+'''
+We began by the black hole mass M, the Schwarzschild radius r_s (horizon), 
 the photon radius r_c (critical radius), the critical impact parameter b_c, and the function effective potential. 
 We use geometrized units and create an arrange of values for r.
-"""
-M = 1
+'''
+M   = 1
 r_s = 2*M
 r_c = 3*M
 b_c = 3*np.sqrt(3)*M
@@ -129,6 +129,9 @@ $$
 Thus the total contribution of successive numbers of circuits is proportional to $$\sum^{\infty}_0e^{-2n\pi}=\frac{1}{1-e^{-2\pi}}$$. Thus in practice the contribution for $$n\geq 2$$ is really negligeble. We shall see bellow the observational consequences of this fact.
 
 Once the properties of the deflectionangle $$\mu(b)$$ are known, one is ready to work out what is the image of the black hole illuminatted by a parallel bean light, as seen by an observer placed on $$\Theta-$$direction. It follows from the above discussion that rays that reach the observer will give a picture consisting of a black disk of radius $$b_c= 5.19695M$$ surrounded by 'ghost' rings of different radius and brightness. The exterior ring corresponds to the rays that have not described any circuit; as $$b$$ approaches its critical value $$b_c$$, the rays described more and more circuits, until in the limit $$b_\infty = b_c$$ (infinite circuits) the rays are captured.
+
+To conclue this section, the only ring practically distinguishable would be the external one. This is not a matter of brightness, but also a matter of resolution. 
+
 
 
 
