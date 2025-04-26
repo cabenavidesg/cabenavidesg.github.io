@@ -182,7 +182,7 @@ plt.ylim(0.0,1)
 plt.grid(True)
 {% endhighlight %}
 
-| Figure 1 | Figure 2 |
+| Especific intensity (static spherical accretion)| Shadow (static spherical accretion) |
 |----------|----------|
 | ![](/assets/Image1979.png) | ![](/assets/Image1979.png) |
 
