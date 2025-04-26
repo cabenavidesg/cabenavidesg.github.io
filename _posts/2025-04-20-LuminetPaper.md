@@ -69,9 +69,7 @@ Let us call $$u_1$$, $$u_2$$ and $$u_3$$, the roots of $$G(u)$$, with $$u_1< u_2
 
 We are interested in orbits reaching the observer's plane, i. e., for which $$b > b_c$$. These orbits posses a periastron, and itis convenient to express all the quantities in terms of the periastron distance $$P$$. so that if we let: $$Q^2\equiv (P-2M)(P-6M)$$, we get (See the derivation of equations 4, 5 and 6.):
 
-$$u_1= -\frac{Q-P+2M}{4MP}$$, 
-$$u_2=\frac{1}{P}$$, 
-$$u_3 = \frac{Q+P-2M}{4MP} \quad(4)$$ 
+$$u_1= -\frac{Q-P+2M}{4MP}$$, u_2=\frac{1}{P}$$, u_3 = \frac{Q+P-2M}{4MP} \quad(4)$$ 
 
 $$b^2  = \frac{P^3}{(P-2M)} \quad(5)$$
 
@@ -84,8 +82,7 @@ $$\varphi_\infty = \frac{1}{\sqrt{2M}}\int^{u_2}_0\frac{dx}{\sqrt{G(x)}}\quad(5a
     
 This integral can be transformed into a classical Jacobian elliptic integral (SeeDerivation equations 4, 5 and 6):
 
-$$\varphi_\infty &= 2\left(\frac{P}{Q}\right)^{1/2}\int^{\pi/2}_{\zeta_\infty}(1-\kappa^2\sin^2x)^{-1/2}dx\\
-&= 2\left(\frac{P}{Q}\right)^{1/2}\left\{K(\kappa)-F(\zeta_\infty,\kappa)\right\} \quad(6)$$.  
+
 
 Here, $$K(\kappa)$$ is the complete elliptic integral of modulus
 
