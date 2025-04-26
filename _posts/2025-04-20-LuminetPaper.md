@@ -116,7 +116,7 @@ b_1&=b_c+3.4823M e^{-(\mu+2\pi)}& \text{(one circuit)}\\
 ...&...\\
 b_n&=b_c+3.4823M e^{-(\mu+2n\pi)} & \text{(two circuit)}\\\\
 ...&...\\
-b_\infty&=b_c & \text{(infinity)}\\
+b_\infty&=b_c & \text{(infinity circuits)}\\
 \end{aligned}
 $$
 
