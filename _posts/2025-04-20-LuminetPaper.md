@@ -184,7 +184,7 @@ plt.grid(True)
 
 | Figure 1 | Figure 2 |
 |----------|----------|
-| ![](figure1.png) | ![](figure2.png) |
+| ![](/assets/Image1979.png) | ![](/assets/Image1979.png) |
 
 
 
