@@ -101,7 +101,11 @@ $$
 \sin^2\zeta_\infty = \frac{Q-P+2M}{Q-P+6M}.
 $$
 
-The total deviation of the light ray, $$\mu$$, is given by $$\varphi_\infty=\frac{\pi}{2}+\frac{\mu}{2}$$. It is interesting to give the formulas at the limit $$P>>M$$ and $$P\rightarrow 3M$$. For very large $$P$$ (weak field approximation) we verify immediately that $$\mu\sim 4M/P$$, $$P\rightarrow b$$ (See the derivation here). This famous formula for the deflection of light ray in the gravitational field of a spherical star leads to the Rutherford limit for the differential cross-section $$\frac{d\sigma}{d\Omega}=\frac{b}{\sin{\mu}}\abs\left(\frac{db}{d\mu}\right)$$ (which is precisely the number of particles per unit solid angle $$d\Omega=2\pi\sin\mu d\mu$$ collected by the oserver); which is independent of the energy of the incident photons. 
+The total deviation of the light ray, $$\mu$$, is given by $$\varphi_\infty=\frac{\pi}{2}+\frac{\mu}{2}$$. It is interesting to give the formulas at the limit $$P>>M$$ and $$P\rightarrow 3M$$. For very large $$P$$ (weak field approximation) we verify immediately that $$\mu\sim 4M/P$$, $$P\rightarrow b$$ (See the derivation here). This famous formula for the deflection of light ray in the gravitational field of a spherical star leads to the Rutherford limit for the differential cross-section $$\frac{d\sigma}{d\Omega}=\frac{b}{\sin{\mu}}abs\left(\frac{db}{d\mu}\right)$$ (which is precisely the number of particles per unit solid angle $$d\Omega=2\pi\sin\mu d\mu$$ collected by the oserver); which is independent of the energy of the incident photons. 
+
+For $$P$$ near the critical value $$3M$$, i.e. for $$b$$ near $$b_c$$, the asymptotic expansion of the elliptic funtions for modulus $\kappa\sim 1$ (Gradshteyn and Ryzhik, 1965) leads to the important relation:
+
+$$b = 5.19695M+3.4823M e^{-\mu} \quad(7)$$
 
 
 
