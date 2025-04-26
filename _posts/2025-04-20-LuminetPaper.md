@@ -105,9 +105,7 @@ The total deviation of the light ray, $$\mu$$, is given by $$\varphi_\infty=\fra
 
 For $$P$$ near the critical value $$3M$$, i.e. for $$b$$ near $$b_c$$, the asymptotic expansion of the elliptic funtions for modulus $\kappa\sim 1$ (Gradshteyn and Ryzhik, 1965) leads to the important relation:
 
-$$
-b = 5.19695M+3.4823M e^{-\mu} \quad(7)
-$$
+$$b = 5.19695M+3.4823M e^{-\mu} \quad(7)$$
 
 
 
