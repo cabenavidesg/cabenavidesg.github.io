@@ -111,10 +111,10 @@ In fact, the particles that come off at a given angle $\mu$ in clude not only th
 
 $$
 \begin{aligned}
-b_0&=\\
-b_1&=\\
+b_0&=b_c+3.4823M e^{-\mu}\\
+b_1&=b_c+3.4823M e^{-(\mu+2\pi)}\\
 ...&...\\
-b_n&=\\
+b_n&=b_c+3.4823M e^{-(\mu+2n\pi)}\\\\
 ...&...\\
 b_\infty&=b_c\\
 \end{aligned}
