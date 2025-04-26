@@ -134,13 +134,12 @@ To conclue this section, the only ring practically distinguishable would be the 
 
 {% highlight python %}
 import warnings
+warnings.filterwarnings('ignore')
 '''
 We began by defining the black hole mass M, the Schwarzschild radius r_s (horizon), 
 the photon radius r_c (critical radius), the critical impact parameter b_c, and the function effective potential. 
 We use geometrized units and create an arrange of values for r.
 '''
-
-warnings.filterwarnings('ignore')
 
 def intensity_integrand(u):
     #Integral terms
@@ -153,6 +152,7 @@ Denominator = lambda x: (1/b**2)-x**2+2*M*x**3
 b_intensity = np.arange(1e-3,20,1e-3)
 
 I_o=np.zeros_like(b_intensity)
+
 for i, b in enumerate(b_intensity):
     if b<b_c:
         specific_intensity = quad(intensity_integrand,0,1/2*M)[0]
@@ -162,7 +162,9 @@ for i, b in enumerate(b_intensity):
         specific_intensity = quad(intensity_integrand,0, uroot)[0]
         I_o[i]=specific_intensity        
 
-# Specific intensity function of b
+'''
+Specific intensity function of b
+'''
 Io_interpol= make_interp_spline(b_intensity,I_o,k=3, t=None, bc_type=None, axis=0, check_finite=True)
 
 plt.figure(figsize=(10, 10))
