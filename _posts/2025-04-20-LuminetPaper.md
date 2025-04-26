@@ -112,9 +112,9 @@ In fact, the particles that come off at a given angle $\mu$ in clude not only th
 $$
 \begin{aligned}
 b_0&=b_c+3.4823M e^{-\mu} & \text{(zero circuit)}\\
-b_1&=b_c+3.4823M e^{-(\mu+2\pi)}& \text{(one circuit)}\\
+b_1&=b_c+3.4823M e^{-(\mu+2\pi)} & \text{(one circuit)}\\
 ...&...\\
-b_n&=b_c+3.4823M e^{-(\mu+2n\pi)} & \text{(two circuit)}\\\\
+b_n&=b_c+3.4823M e^{-(\mu+2n\pi)} &\text{(two circuit)}\\\\
 ...&...\\
 b_\infty&=b_c & \text{(infinity circuits)}\\
 \end{aligned}
