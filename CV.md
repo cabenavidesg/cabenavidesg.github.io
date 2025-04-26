@@ -4,6 +4,8 @@ permalink: "/CV/"
 layout: page
 ---
 
+![Consulate talk](/assets/Image1979.png)
+
 # Personal information
 - Name: Carlos A. Benavides-Gallego.
 - Nationality: Colombian.
