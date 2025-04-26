@@ -89,9 +89,9 @@ $$\varphi_\infty = 2\left(\frac{P}{Q}\right)^{1/2}\int^{\pi/2}_{\zeta}(1-\kappa^
 
 $$
 \begin{aligned}
-a &= b + c \\
-d &= e + f \\
-g &= h + i
+\varphi_\infty &= 2\left(\frac{P}{Q}\right)^{1/2}\int^{\pi/2}_{\zeta\infty}(1-\kappa^2\sin^2x)^{-1/2}dx \\
+&= e + f \\
+&= h + i
 \end{aligned}
 $$
 
