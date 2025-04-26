@@ -38,7 +38,7 @@ It is clear that the rim of te ''optical'' black hole corresponds to rays which 
 
 {% highlight python %}
 '''
-We began by the black hole mass M, the Schwarzschild radius r_s (horizon), 
+We began by defining the black hole mass M, the Schwarzschild radius r_s (horizon), 
 the photon radius r_c (critical radius), the critical impact parameter b_c, and the function effective potential. 
 We use geometrized units and create an arrange of values for r.
 '''
@@ -132,7 +132,53 @@ Once the properties of the deflectionangle $$\mu(b)$$ are known, one is ready to
 
 To conclue this section, the only ring practically distinguishable would be the external one. This is not a matter of brightness, but also a matter of resolution. 
 
+{% highlight python %}
+import warnings
+'''
+We began by defining the black hole mass M, the Schwarzschild radius r_s (horizon), 
+the photon radius r_c (critical radius), the critical impact parameter b_c, and the function effective potential. 
+We use geometrized units and create an arrange of values for r.
+'''
 
+warnings.filterwarnings('ignore')
+
+def intensity_integrand(u):
+    #Integral terms
+    t1 = (1-2*M*u)**2
+    t2 = 1/(1-b**2*u**2+2*M*b**2*u**3)
+    return np.sqrt(t1*t2)
+
+Denominator_intensity = lambda x: 1-b**2*x**2+2*M*b**2*x**3
+Denominator = lambda x: (1/b**2)-x**2+2*M*x**3
+b_intensity = np.arange(1e-3,20,1e-3)
+
+I_o=np.zeros_like(b_intensity)
+for i, b in enumerate(b_intensity):
+    if b<b_c:
+        specific_intensity = quad(intensity_integrand,0,1/2*M)[0]
+        I_o[i]=specific_intensity
+    else:
+        uroot = float(optimize.fsolve(Denominator,0.15,xtol=1e-5))
+        specific_intensity = quad(intensity_integrand,0, uroot)[0]
+        I_o[i]=specific_intensity        
+
+# Specific intensity function of b
+Io_interpol= make_interp_spline(b_intensity,I_o,k=3, t=None, bc_type=None, axis=0, check_finite=True)
+
+plt.figure(figsize=(10, 10))
+plt.plot(b_intensity,I_o,color= 'black')
+plt.plot(-b_intensity,I_o,color='black')
+plt.axvline(x=  b_c, color='black', linestyle=':', label='r = 10')
+plt.axvline(x= -b_c, color='black', linestyle=':', label='r = 10')
+#plt.plot(b_intensity,Io_interpol(b_intensity),'--',color='Red')
+#plt.plot(-b_intensity,Io_interpol(b_intensity),'--',color='Red')
+plt.title('Specific intensity')
+plt.xlabel('b/M',fontsize=14)
+plt.ylabel('$I_{obs}$',fontsize=14)
+plt.xlim(-10,10)
+plt.ylim(0.0,1)
+plt.grid(True)
+{% endhighlight %}
 
 
 
