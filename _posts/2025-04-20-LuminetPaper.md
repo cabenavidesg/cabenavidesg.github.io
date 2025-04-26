@@ -218,6 +218,11 @@ plt.ylabel(r'$Y$',fontsize=14)
 Let us now assume that the source of radiation is an emitting accretion disk orbiting arround the black hole; the astrophisical properties of such an object will be briefly discussed in the next section. Let the thickness of the disk be negligible with respect to M, so that  it is considered as lying in the equatorial plane of the the Schwarzschild black hole. The coordinates system is chosen as in Figure. 3. The observver lies in the fixed direcion $$\theta_0$$, $$\varphi_0=0$$ (plane YOZ) at a distance $$r_0>>M$$. We consider the disk as an assembly of idealized particles emitiing isotropically. Starting from an emitting partivle with Schwarzschild coordinates $$(r,\varphi)$$, a typical trajectory whose asymptotic direction is the observer's direction OO' lies in the plane OX''Y'' and reaches the observer's direction OO' lies in the plane O'X''Y' and reaches the photographic plate (which is the plane O'X''Y'') at a point $m$, determined by its polar coordinates $$(b,\alpha)$$.
 
 
+Assuming tha the observer is practically at infinity and at rest in the gravitational field of the black hole, then the polar distance from m to O' is precisely the impact parameter of the trajectory, and the polar angle $$\alpha$$, with the ''vertical'' direction O'Y'' is the complement of the dihedral  angle between planes OXY' and OX'Y'. For a given coordinate $$r$$, varying $$\varphi$$ from 0 to $$\pi$$ (the figure being symmetric with respect to O'Y''-axis), we get the apperent shape $$b(r)=b(r,\alpha)$$ on the photographic plate of the circular ring orbiting the black hole at distance $r$.
+
+As seen in the previous secton, rays emitted fro a given point M can circle around the black hole before escaping o infintiy, given an infinite series of images on the photographic plate; the same arguments indicate that only the secundary image (which corresponds to raus that have circuited once) has to be taken into account, images of higher order being emitter M, the observer will detect generally two images, a direct (or primary) image at polar coordinates $$(b^{(d)},\alpha)$$ and a gosh (or secundary) image at ($$b^{(g)},\alpha+\pi$$).
+
+
 
 
 
