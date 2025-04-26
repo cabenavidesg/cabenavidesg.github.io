@@ -128,6 +128,8 @@ $$
 
 Thus the total contribution of successive numbers of circuits is proportional to $$\sum^{\infty}_0e^{-2n\pi}=\frac{1}{1-e^{-2\pi}}$$. Thus in practice the contribution for $$n\geq 2$$ is really negligeble. We shall see bellow the observational consequences of this fact.
 
+Once the properties of the deflectionangle $$\mu(b)$$ are known, one is ready to work out what is the image of the black hole illuminatted by a parallel bean light, as seen by an observer placed on $$\Theta-$$direction. It follows from the above discussion that rays that reach the observer will give a picture consisting of a black disk of radius $$b_c= 5.19695M$$ surrounded by 'ghost' rings of different radius and brightness. The exterior ring corresponds to the rays that have not described any circuit; as $$b$$ approaches its critical value $$b_c$$, the rays described more and more circuits, until in the limit $$b_\infty = b_c$$ (infinite circuits) the rays are captured.
+
 
 
 
