@@ -85,7 +85,7 @@ $$\varphi_\infty = \frac{1}{\sqrt{2M}}\int^{u_2}_0\frac{dx}{\sqrt{G(x)}}\quad(5a
     
 This integral can be transformed into a classical Jacobian elliptic integral (See derivation of equations 4,5 and 6)
 
-$$\varphi_\infty = 2\left(\frac{P}{Q}\right)^{1/2}\int^{\pi/2}_{\zeta_\infty}$$
+$$\varphi_\infty = 2\left(\frac{P}{Q}\right)^{1/2}\int^{\pi/2}_{\alpha_\infty}$$
 
 
 
