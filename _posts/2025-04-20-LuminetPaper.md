@@ -222,6 +222,20 @@ Assuming tha the observer is practically at infinity and at rest in the gravitat
 
 As seen in the previous secton, rays emitted fro a given point M can circle around the black hole before escaping o infintiy, given an infinite series of images on the photographic plate; the same arguments indicate that only the secundary image (which corresponds to raus that have circuited once) has to be taken into account, images of higher order being emitter M, the observer will detect generally two images, a direct (or primary) image at polar coordinates $$(b^{(d)},\alpha)$$ and a gosh (or secundary) image at ($$b^{(g)},\alpha+\pi$$).
 
+Relationships between the different angles involved by the problem follow directly from the resolution of spherical triangles $XMY'$ and $XMX''$ (Fig 3). We get (See Derivation equations 9 and 10):
+
+$$
+\cos \alpha = \frac{\cot \varphi \cos \theta_0}{\sin \gamma} = \frac{\cos \varphi \cos\theta_0}{\sqrt{1-\sin^2\theta_0\cos^2\varphi}}\quad(9).
+$$
+
+So that $$\alpha$$ is a monotonic function of $$\varphi$$.
+
+We need also the relation (See Derivation equations 9 and 10):
+
+$$
+\cos\gamma=\cos\alpha\left(cos^2\alpha + \cot^2\theta_0\right)\quad(10).
+$$
+
 
 
 
